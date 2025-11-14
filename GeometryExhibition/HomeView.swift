@@ -37,7 +37,7 @@ struct HomeView: View {
                 }
             }
             .padding()
-            .navigationTitle("Geometry Exhibition Demo")
+            .navigationTitle("three and a half men")
             .navigationBarTitleDisplayMode(.inline)
         }
     }
